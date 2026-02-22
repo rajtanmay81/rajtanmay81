@@ -2,7 +2,7 @@
 
 ### A passionate frontend developer from IndiaAspiring Software Engineer | Backend Developer | Java | Spring Boot | Python | AI/ML Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajtanmay81&label=Profile views&color=0e75b6&style=flat" alt="rajtanmay81" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajtanmay81&label=Profile views&color=0e75b6&style=flat" alt="rajtanmay81" /> </p> -->
 
 - 🔭 I'm currently working on **Spring Boot and RESTful services**
 

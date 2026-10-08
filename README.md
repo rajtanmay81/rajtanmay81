@@ -21,7 +21,7 @@ I build AI systems end to end: train and explain ML models, serve them through F
 - 💬 **Ask me about:** Python, machine learning, FastAPI, RAG, SQL
 - ☕ **Also comfortable with:** Java and Spring Boot
 - 🎯 **Looking for:** AI/ML roles and internships where I can build and ship real models
-- 📫 **Reach me:** [rajtanmay81@gmail.com](mailto:rajtanmay81@gmail.com)
+- 📫 **Reach me:** [rajtanmay81@gmail.com](mailto:rajtanmay81@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanmay-raj-769968413)
 - ⚡ **Fun fact:** I started with Java but fell in love with Python while exploring AI/ML
 
 ---
